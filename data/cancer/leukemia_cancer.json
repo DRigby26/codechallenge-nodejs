@@ -1,0 +1,63 @@
+{
+    "name": "Leukemia",
+    "source": "https://www.cancer.gov/types/leukemia",
+    "overview": "Leukemia is a broad term for cancers of the blood cells. The type of leukemia depends on the type of blood cell that becomes cancer and whether it grows quickly or slowly. Leukemia occurs most often in adults older than 55, but it is also the most common cancer in children younger than 15. Explore the links on this page to learn more about the types of leukemia plus treatment, statistics, research, and clinical trials.",
+    "treatments": [
+        {
+            "title": "                     Adult Acute Lymphoblastic Leukemia Treatment",
+            "url": "https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq"
+        },
+        {
+            "title": "Adult Acute Myeloid Leukemia Treatment                              ",
+            "url": "https://www.cancer.gov/types/leukemia/patient/adult-aml-treatment-pdq"
+        },
+        {
+            "title": "Chronic Lymphocytic Leukemia Treatment",
+            "url": "https://www.cancer.gov/types/leukemia/patient/cll-treatment-pdq"
+        },
+        {
+            "title": "Chronic Myelogenous Leukemia Treatment",
+            "url": "https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq"
+        },
+        {
+            "title": "hairy cell leukemia treatment",
+            "url": "https://www.cancer.gov/types/leukemia/patient/hairy-cell-treatment-pdq"
+        },
+        {
+            "title": "Childhood Acute Lymphoblastic Leukemia Treatment",
+            "url": "https://www.cancer.gov/types/leukemia/patient/child-all-treatment-pdq"
+        },
+        {
+            "title": "Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment",
+            "url": "https://www.cancer.gov/types/leukemia/patient/child-aml-treatment-pdq"
+        }
+    ],
+    "causes & preventions": [
+        {
+            "title": "Cancer Prevention Overview",
+            "url": "https://www.cancer.gov/about-cancer/causes-prevention/patient-prevention-overview-pdq"
+        },
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "",
+            "url": ""
+        }
+    ],
+    "screening": [
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "Cancer Screening Overview",
+            "url": "https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq"
+        }
+    ]
+}

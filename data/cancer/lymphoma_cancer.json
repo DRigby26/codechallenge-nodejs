@@ -1,0 +1,71 @@
+{
+    "name": "Lymphoma",
+    "source": "https://www.cancer.gov/types/lymphoma",
+    "overview": "Lymphoma is a broad term for cancer that begins in cells of the lymph system. The two main types are Hodgkin lymphoma and non-Hodgkin lymphoma (NHL). Hodgkin lymphoma can often be cured. The prognosis of NHL depends on the specific type. Explore the links on this page to learn more about lymphoma treatment, research, and clinical trials.                                                                                                                                           ",
+    "treatments": [
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "Adult Hodgkin Lymphoma Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/adult-hodgkin-treatment-pdq"
+        },
+        {
+            "title": "Adult Non-Hodgkin Lymphoma Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/adult-nhl-treatment-pdq"
+        },
+        {
+            "title": "AIDS-Related Lymphoma Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq"
+        },
+        {
+            "title": "Mycosis Fungoides (Including Sézary Syndrome) Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq"
+        },
+        {
+            "title": "Primary CNS Lymphoma Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq"
+        },
+        {
+            "title": "Childhood Hodgkin Lymphoma Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/child-hodgkin-treatment-pdq"
+        },
+        {
+            "title": "Childhood Non-Hodgkin Lymphoma Treatment",
+            "url": "https://www.cancer.gov/types/lymphoma/patient/child-nhl-treatment-pdq"
+        }
+    ],
+    "causes & preventions": [
+        {
+            "title": "Cancer Prevention Overview",
+            "url": "https://www.cancer.gov/about-cancer/causes-prevention/patient-prevention-overview-pdq"
+        },
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "",
+            "url": ""
+        }
+    ],
+    "screening": [
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "",
+            "url": ""
+        },
+        {
+            "title": "cancer screening overview",
+            "url": "https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq"
+        }
+    ]
+}

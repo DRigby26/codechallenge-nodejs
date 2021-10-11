@@ -15,7 +15,7 @@ Simply do your best to complete as many of the requirements as possible within t
 ## Project Description
 For this challenge, you will build a web API that delivers cancer related information to third-party applications. They key to this API is to build it following [RESTful principles](https://www.redhat.com/en/topics/api/what-is-a-rest-api).
 
-The data to be used can be found on the Government's [cancer website](https://www.cancer.gov/) and is located under the `CANCER TYPES` section of the website. How you extract the data from the website and convert it into a format that can be used by your new API is up to you.
+The data to be used can be found on the Government's [cancer website](https://www.cancer.gov/) and is located under the `CANCER TYPES` section of the website. Some of that data has been provided to you and is located in the `data/cancer` folder of the repo you just forked. However, it should be noted that only a few cancer types were provided, you may decide to implement more to round out the project. The format of the provided data is also not conducive to an API that implements full CRUD operations, there is a good chance you will need to settle on a different data schema for the project.
 
 Your API should supply information for several cancer types. The data set for each cancer must contain the following:
 

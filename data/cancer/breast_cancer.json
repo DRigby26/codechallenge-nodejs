@@ -1,0 +1,75 @@
+{
+    "name": "Breast Cancer",
+    "source": "https://www.cancer.gov/types/breast",
+    "overview": "Breast cancer is the second most common cancer in women after skin cancer. Mammograms can detect breast cancer early, possibly before it has spread. Explore the links on this page to learn more about breast cancer prevention, screening, treatment, statistics, research, clinical trials, and more.",
+    "treatments": [
+        {
+            "title": "breast cancer treatment",
+            "url": "https://www.cancer.gov/types/breast/patient/breast-treatment-pdq"
+        },
+        {
+            "title": "Male Breast Cancer Treatment",
+            "url": "https://www.cancer.gov/types/breast/patient/male-breast-treatment-pdq"
+        },
+        {
+            "title": "Childhood Breast Cancer Treatment",
+            "url": "https://www.cancer.gov/types/breast/patient/child-breast-treatment-pdq"
+        },
+        {
+            "title": "Breast Cancer During Pregnancy",
+            "url": "https://www.cancer.gov/types/breast/patient/pregnancy-breast-treatment-pdq"
+        }
+    ],
+    "causes & preventions": [
+        {
+            "title": "Breast Cancer Prevention",
+            "url": "https://www.cancer.gov/types/breast/patient/breast-prevention-pdq"
+        },
+        {
+            "title": "Breast Cancer Risk in American Women",
+            "url": "https://www.cancer.gov/types/breast/risk-fact-sheet"
+        },
+        {
+            "title": "BRCA Gene Mutations: Cancer Risk and Genetic Testing",
+            "url": "https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet"
+        },
+        {
+            "title": "Surgery to Reduce the Risk of Breast Cancer",
+            "url": "https://www.cancer.gov/types/breast/risk-reducing-surgery-fact-sheet"
+        },
+        {
+            "title": "reproductive history and cancer risk",
+            "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/reproductive-history-fact-sheet"
+        },
+        {
+            "title": "Prevention Clinical Trials for Breast Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/prevention"
+        }
+    ],
+    "screening": [
+        {
+            "title": "Breast Cancer Screening",
+            "url": "https://www.cancer.gov/types/breast/patient/breast-screening-pdq"
+        },
+        {
+            "title": "breast changes and conditions",
+            "url": "https://www.cancer.gov/types/breast/breast-changes"
+        },
+        {
+            "title": "Dense Breasts: Answers to Commonly Asked Questions",
+            "url": "https://www.cancer.gov/types/breast/breast-changes/dense-breasts"
+        },
+        {
+            "title": "Mammograms",
+            "url": "https://www.cancer.gov/types/breast/mammograms-fact-sheet"
+        },
+        {
+            "title": "Screening Clinical Trials for Breast Cancer",
+            "url": "https://www.cancer.gov/about-cancer/treatment/clinical-trials/disease/breast-cancer/screening"
+        },
+        {
+            "title": "",
+            "url": ""
+        }
+    ]
+}
