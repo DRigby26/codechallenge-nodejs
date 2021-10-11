@@ -43,6 +43,8 @@ Verify that the new Nest.js project:
 ## Requirements
 _Where the fun really beings_
 
+- [ ] Development environment setup instructions
+
 ### Features
 - [ ] List all of the cancer types available
 - [ ] Pull overview/summary information on a specific cancer type
