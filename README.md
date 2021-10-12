@@ -1,6 +1,8 @@
 # Code Challenge: Node.js
 __Back-end and API Development Skills Assessment__
 
+Repo Location: https://github.com/tim-lynn-clark/codechallenge-nodejs
+
 ## Summary
 This Node.js code challenge provides each candidate a `consistent` and `fair` opportunity to demonstrate the skills they have developed and practiced over their years of software engineering.
 
