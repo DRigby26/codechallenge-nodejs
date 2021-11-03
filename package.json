@@ -18,12 +18,17 @@
     "test:watch": "../temp/node_modules/.bin/jest --watch",
     "test:cov": "../temp/node_modules/.bin/jest --coverage",
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register ../temp/node_modules/.bin/jest --runInBand",
-    "test:e2e": "../temp/node_modules/.bin/jest --config ./test/jest-e2e.json"
+    "test:e2e": "../temp/node_modules/.bin/jest --config ./test/jest-e2e.json",
+    "seed": "ts-node src/cancerTypes/seeders/seed.ts"
   },
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/mongoose": "^9.0.1",
     "@nestjs/platform-express": "^8.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "mongoose": "^6.0.12",
+    "nestjs-seeder": "^0.2.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
