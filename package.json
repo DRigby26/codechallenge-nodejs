@@ -19,11 +19,12 @@
     "test:cov": "../temp/node_modules/.bin/jest --coverage",
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register ../temp/node_modules/.bin/jest --runInBand",
     "test:e2e": "../temp/node_modules/.bin/jest --config ./test/jest-e2e.json",
-    "seed": "ts-node src/cancerTypes/seeders/seed.ts"
+    "seed": "ts-node src/cancer-types/seeders/seed.ts"
   },
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/mapped-types": "*",
     "@nestjs/mongoose": "^9.0.1",
     "@nestjs/platform-express": "^8.0.0",
     "cheerio": "^1.0.0-rc.10",

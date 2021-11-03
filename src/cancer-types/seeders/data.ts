@@ -1,7 +1,7 @@
 import cheerio from 'cheerio';
 import axios from 'axios';
-import {CreateCancerTypeDto} from "../dto/createCancerType.dto";
 import {ProtectiveFactor, RiskFactor, ScreeningMethod, Treatment} from "../interfaces";
+import {CreateCancerTypeDto} from "../dto/create-cancer-type.dto";
 
 export const rootURL = 'https://www.cancer.gov';
 
